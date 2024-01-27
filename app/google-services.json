@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635262816159",
+    "project_id": "motorgenio-fd57e",
+    "storage_bucket": "motorgenio-fd57e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635262816159:android:4cbd42a23af2401dcf77aa",
+        "android_client_info": {
+          "package_name": "com.azhar.spks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBct1WR2Cx675JU2NYrNrrv83yfy04KDuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
